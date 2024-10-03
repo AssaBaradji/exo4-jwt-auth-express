@@ -39,7 +39,7 @@ const checkApiKey = (req, res, next) => {
 
 
 const users = [
-    { email: 'test@example.com', password: 'password123' }, 
+    { email: 'baradjiassa@.gmail.com', password: 'password123' }, 
 ];
 
 
